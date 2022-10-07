@@ -1,0 +1,46 @@
+SSN College of Engineering
+Assignment 2
+Name: Lokeshwaran N
+Register No.: 195002304
+Group: DA-B5-5M1E
+Description:- 
+Sales of Pharmaceutical products, which may include medicines, surgical devices, consumables of any form, machines, and equipment used in surgeries are called Pharma Sales. The target audience is doctors of any kind, chemists, and/or purchase in charge in hospitals or pharmacies. Pharmaceutical sale is very different from regular sales of any kind right from the product to the customer to the process of selling. Of all the sales, Pharmaceutical sales are considered to be one of the most lucrative and most challenging jobs requiring a lot of learning on the salesperson’s part. 
+Like every sale, there is a buyer and a seller. In this case, the buyer depends on the product of the manufacturer. We will consider all of the buyer kinds.
+1. A buyer for medicines of any kind – Chemist, Distributor, Hospital Pharmacies
+2. A buyer for medical devices, instruments, implants – Doctor, purchase officer
+About the Pharma Dataset:
+1. Month- January -December Months Data.
+2. Customer- Hospitals & Organizations.
+3. Period- Q1-Q4 are the four quarters which show the sales record quarterly.
+4. Product- Different Tablets for diseases
+5. Location-Sales in different regions,
+6. Sales Rep- Sales Representative who sells pharma products.
+7. Supplier-Pharmaceuticals companies are those who supply their products.
+8. Warehouse Location- A warehouse location is a region where companies storing goods.
+9. Actual-Actual sales for the product.
+10. C.sales-Customer Sales for the product.
+11. Inventory Stock: Inventory stock refers to the goods and materials that a business holds for the ultimate goal of resale.
+
+Tasks:
+1.Sales by Customer
+ 
+2.Sales by Location
+ 
+
+
+
+3. Sales By Sales Representative
+ 
+4. Received Inventory From Supplier
+ 
+5. Inventory Stock for Warehouse Locations
+ 
+6.Monthly sales
+ 
+
+
+
+7. Sales trend
+ 
+8. Actual and Received Inventory by Month
+ 
